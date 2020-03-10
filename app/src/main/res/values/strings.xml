@@ -11,4 +11,8 @@
     <string name="textView5">LOCAL:</string>
     <string name="editText4"> </string>
     <string name="button2">SALVAR</string>
+    <string name="textView8">DATA1</string>
+    <string name="textView9">DATA2</string>
+    <string name="button3">B1</string>
+    <string name="button4">B2</string>
 </resources>
